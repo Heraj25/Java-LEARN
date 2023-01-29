@@ -1,3 +1,4 @@
+package Firstclass;
 class firstclass{
     public void message(){
         System.out.println("I am Heraj.");

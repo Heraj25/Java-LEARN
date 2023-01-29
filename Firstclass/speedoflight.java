@@ -1,3 +1,4 @@
+package Firstclass;
 
 class speedoflight{
     static double speed(int lightspeed, double seconds){

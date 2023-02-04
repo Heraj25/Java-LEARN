@@ -8,7 +8,7 @@ public class duplicates {
         Scanner sc = new Scanner(System.in);
         System.out.print("Input the total number of elements in the array: ");
         n = sc.nextInt();
-
+  
         int[] arr = new int[n];
         System.out.println("Input the elements in the array: ");
         for(int i=0; i<n ; i++){

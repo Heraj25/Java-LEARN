@@ -3,8 +3,7 @@ package ARRAYS;
 import java.util.Scanner;
 
 public class sort_012 {
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) {     
         int n;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the total number of elements in the array: ");
@@ -21,13 +20,11 @@ public class sort_012 {
         int countone = 0; 
         int counttwo = 0;
 
-
         System.out.println("\t THE ORIGINAL ARRAY \t");
         for(int i=0 ; i<n ; i++){
             System.out.print(arr[i]+" ");
         }
 
-    
         System.out.println();
         for(int i=0 ; i < n ; i++){
             if(arr[i] == 0)
@@ -58,14 +55,9 @@ public class sort_012 {
             counttwo = counttwo -1;
         }
 
-
         System.out.println("\t THE ALTERED ARRAY \t");
         for(i = 0 ; i<n ; i++){
             System.out.print(arr[i]+" ");
         }
-
-       
-
-    }
-    
+    }    
 }

@@ -6,14 +6,12 @@ class array{
     void reversearray(int[] arr, int num){
         int[] rev_arr = new int[num];
         int b = num;
-
         for(int j=0; j<num ; j++){
             rev_arr[j] = arr[b-1];
             b--;
         }
         
-        /*Print the reverse order of the array */
-        
+        /*Print the reverse order of the array */        
         System.out.println("The reverse order of the elements of the array are: ");
         for(int l=0 ; l<num; l++){
             System.out.println(l+". "+rev_arr[l]);
@@ -48,8 +46,6 @@ public class reverse {
 
         array obj = new array();
         obj.reversearray(ar, n);
-
         sc.close();      
-    }
-    
+    }    
 }

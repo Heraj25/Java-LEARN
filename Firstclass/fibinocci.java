@@ -12,6 +12,7 @@ public class fibinocci {
     n = sc.nextInt();
     int sum;
     sc.close();
+    
     System.out.println(a);
     System.out.println(b);
     for(int i=1 ; i<=n ; i++){

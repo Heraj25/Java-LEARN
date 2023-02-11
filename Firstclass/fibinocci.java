@@ -3,8 +3,6 @@ package Firstclass;
 import java.util.Scanner;
 public class fibinocci {
     public static void main(String[] args) {
-        
-    
     int n;
     Scanner sc = new Scanner(System.in);
     int a=0;
@@ -12,7 +10,7 @@ public class fibinocci {
     n = sc.nextInt();
     int sum;
     sc.close();
-    
+
     System.out.println(a);
     System.out.println(b);
     for(int i=1 ; i<=n ; i++){

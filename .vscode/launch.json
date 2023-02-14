@@ -1,0 +1,259 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch insertbetween",
+            "request": "launch",
+            "mainClass": "Linked_List.insertbetween",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Merge_intervals",
+            "request": "launch",
+            "mainClass": "ARRAYS.Merge_intervals",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch buy_and_sell",
+            "request": "launch",
+            "mainClass": "ARRAYS.buy_and_sell",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch circular",
+            "request": "launch",
+            "mainClass": "ARRAYS.circular",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch common_sort",
+            "request": "launch",
+            "mainClass": "ARRAYS.common_sort",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch contiguous",
+            "request": "launch",
+            "mainClass": "ARRAYS.contiguous",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_num",
+            "request": "launch",
+            "mainClass": "ARRAYS.count_num",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch dif_btw_heights",
+            "request": "launch",
+            "mainClass": "ARRAYS.dif_btw_heights",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicates",
+            "request": "launch",
+            "mainClass": "ARRAYS.duplicates",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch intersection",
+            "request": "launch",
+            "mainClass": "ARRAYS.intersection",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch kadane",
+            "request": "launch",
+            "mainClass": "ARRAYS.kadane",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch kth_max_min",
+            "request": "launch",
+            "mainClass": "ARRAYS.kth_max_min",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch merge_sort",
+            "request": "launch",
+            "mainClass": "ARRAYS.merge_sort",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch min_jumps",
+            "request": "launch",
+            "mainClass": "ARRAYS.min_jumps",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch neg",
+            "request": "launch",
+            "mainClass": "ARRAYS.neg",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "ARRAYS.reverse",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort_012",
+            "request": "launch",
+            "mainClass": "ARRAYS.sort_012",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_zero",
+            "request": "launch",
+            "mainClass": "ARRAYS.sum_zero",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch union",
+            "request": "launch",
+            "mainClass": "ARRAYS.union",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Firstclass.Hello",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrong",
+            "request": "launch",
+            "mainClass": "Firstclass.armstrong",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch bool",
+            "request": "launch",
+            "mainClass": "Firstclass.bool",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch classes",
+            "request": "launch",
+            "mainClass": "Firstclass.classes",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "Firstclass.factorial",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibinocci",
+            "request": "launch",
+            "mainClass": "Firstclass.fibinocci",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch fitthenumber",
+            "request": "launch",
+            "mainClass": "Firstclass.fitthenumber",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch nestedif",
+            "request": "launch",
+            "mainClass": "Firstclass.nestedif",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch speedoflight",
+            "request": "launch",
+            "mainClass": "Firstclass.speedoflight",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch switcher",
+            "request": "launch",
+            "mainClass": "Firstclass.switcher",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosum",
+            "request": "launch",
+            "mainClass": "Firstclass.twosum",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch Runner",
+            "request": "launch",
+            "mainClass": "Linked_List.Runner",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch chess",
+            "request": "launch",
+            "mainClass": "arrays2d.chess",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch inference",
+            "request": "launch",
+            "mainClass": "inference",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch protect",
+            "request": "launch",
+            "mainClass": "protect",
+            "projectName": "Java LEARN_30dd714"
+        }
+    ]
+}

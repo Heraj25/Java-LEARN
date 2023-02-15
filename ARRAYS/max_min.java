@@ -18,13 +18,13 @@ class max{
 }
 
 class min{
-    double ret_min(double[] arr, int num){
+    double ret_min(double[] ar, int nu){
 
-        double minim=arr[0];
+        double minim=ar[0];
 
-        for(int j=1 ; j<num ; j++){
-            if(arr[j] < minim)
-                minim = arr[j];
+        for(int j=1 ; j<nu ; j++){
+            if(ar[j] < minim)
+                minim = ar[j];
         }
 
         return minim;

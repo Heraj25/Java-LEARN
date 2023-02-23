@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch run",
+            "request": "launch",
+            "mainClass": "ARRAYS.run",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch search",
+            "request": "launch",
+            "mainClass": "matrix.search",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch running",
+            "request": "launch",
+            "mainClass": "Linked_List.running",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch run",
+            "request": "launch",
+            "mainClass": "Linked_List.run",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
             "name": "Launch insertbetween",
             "request": "launch",
             "mainClass": "Linked_List.insertbetween",

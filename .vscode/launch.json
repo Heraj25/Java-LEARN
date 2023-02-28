@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "buy_and_sell",
+            "request": "launch",
+            "mainClass": "arrays1d.buy_and_sell",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "appear_times",
+            "request": "launch",
+            "mainClass": "arrays1d.appear_times",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "buy_and_sell",
+            "request": "launch",
+            "mainClass": "arrays.buy_and_sell",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "appear_times",
+            "request": "launch",
+            "mainClass": "arrays.appear_times",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
             "name": "Launch java_basic3",
             "request": "launch",
             "mainClass": "hackerrank.java_basic3",

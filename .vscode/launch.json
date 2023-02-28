@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch java_basic3",
+            "request": "launch",
+            "mainClass": "hackerrank.java_basic3",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch expect_path",
+            "request": "launch",
+            "mainClass": "expect_path",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch max_product_arr",
+            "request": "launch",
+            "mainClass": "ARRAYS.max_product_arr",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
+            "name": "Launch max_product_sub",
+            "request": "launch",
+            "mainClass": "ARRAYS.max_product_sub",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
             "name": "Launch run",
             "request": "launch",
             "mainClass": "ARRAYS.run",

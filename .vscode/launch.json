@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "no_of_times",
+            "request": "launch",
+            "mainClass": "kalyan.no_of_times",
+            "projectName": "Java LEARN_30dd714"
+        },
+        {
+            "type": "java",
             "name": "buy_and_sell",
             "request": "launch",
             "mainClass": "arrays1d.buy_and_sell",
